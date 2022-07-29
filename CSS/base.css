@@ -19,7 +19,6 @@ body{
     height: 1130px;
     border-radius: 20px; /*设置圆角*/
     margin: 50px 20% ;
-    overflow: hidden;
     }
 .header{
     position: relative;
