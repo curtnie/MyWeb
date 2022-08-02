@@ -1,8 +1,8 @@
 @charset "UTF-8";
 body{
     text-align: center;   
-    
-    background-image:url("../images/bg.jpg");	  
+    background-image:url("../images/bg.jpg");
+    min-width: 1334px;	  
     }
 /* hr{
     border: none;
